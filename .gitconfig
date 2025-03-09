@@ -1,0 +1,8 @@
+[user]
+	name = taekook2
+	email = 536769786@qq.com
+[credential]
+	helper = store
+	username = taekook2
+[credential "https://github.com"]
+	password = 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
